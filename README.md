@@ -1,2 +1,0 @@
-# ecuador
-A project
